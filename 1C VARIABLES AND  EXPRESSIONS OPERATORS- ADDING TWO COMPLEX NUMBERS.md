@@ -13,14 +13,19 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
-# Reg.No-
-#Name-
+# Reg.No-212222060174
+#Name-Pavithra.S
 #Write your code here
+c1=2+3j
+c2=4+7j
+c3=c1+c2
+print(c3)
 
 ```
 
 ## OUTPUT
 
+<img width="820" height="185" alt="image" src="https://github.com/user-attachments/assets/1e571578-73d2-45e7-958e-9a06c6438836" />
 
 ## RESULT
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
