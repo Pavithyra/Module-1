@@ -20,9 +20,9 @@ To write a Python program to find the minimum between three integer numbers usin
 # Name-Pavithra.S
 # Write your code here
 
-num1 = int(input())
-num2 = int(input())
-num3 = int(input())
+num1 = float(input())
+num2 = float(input())
+num3 = float(input())
 
 min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
 
